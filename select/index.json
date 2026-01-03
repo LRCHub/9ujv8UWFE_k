@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Return to Bloom",
+  "base_artist": "Imy",
+  "createdAt": "2026-01-03T15:33:53.196621Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Return to Bloom (feat. 棗いつき)",
+      "artist": "Imy",
+      "has_synced": false,
+      "path": "select/pl_01_Return_to_Bloom_(feat._棗いつき)_Imy.txt"
+    }
+  ]
+}
